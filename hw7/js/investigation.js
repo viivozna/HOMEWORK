@@ -1,3 +1,5 @@
+'use strict'
+
 // console.log(typeof 42);
 // console.log(typeof 42n);
 // console.log(typeof 'hello');
