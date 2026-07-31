@@ -1,3 +1,5 @@
+'use strict'
+
 const hero = {
     name: "Chippi",
     class: "Archer",
